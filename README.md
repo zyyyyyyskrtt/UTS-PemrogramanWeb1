@@ -16,7 +16,7 @@ Halaman autentikasi pengguna dengan validasi input dan modal untuk fitur tambaha
 * Tombol "Lupa Password" dan "Daftar" (dalam bentuk modal box/pop up).
 * Kredensial Login: `razyalfarisi30@gmail.com` / `uts12345`
 
-![Tampilan Halaman Login](img/Index.jpg)  ---
+![Tampilan Halaman Login](img/Index.png)  ---
 
 ## 2. Dashboard Menu (dashboard.html)
 
@@ -26,7 +26,7 @@ Halaman utama setelah berhasil login.
 * Menampilkan "greeting" (Selamat Pagi/Siang/Sore) berdasarkan waktu lokal pengguna.
 * Menu navigasi utama berbasis *grid* untuk mengakses semua modul aplikasi.
 
-![Tampilan Dashboard](img/Dashboard.jpg) ---
+![Tampilan Dashboard](img/Dashboard.png) ---
 
 ## 3. Informasi Stok/Katalog (stok.html)
 
@@ -37,7 +37,7 @@ Menampilkan daftar buku yang tersedia.
 * Tampilan menggunakan *Card Layout* yang responsif.
 * Fitur untuk menambahkan baris/data stok baru menggunakan JavaScript DOM.
 
-![Tampilan Katalog Stok](img/Stok.jpg) 
+![Tampilan Katalog Stok](img/Stok.png) 
 
 ## 4. Halaman Pemesanan (checkout.html)
 
@@ -49,7 +49,7 @@ Halaman untuk mengelola keranjang belanja dan menyelesaikan pesanan.
 * Data keranjang disimpan di `localStorage` agar tidak hilang saat berpindah halaman.
 * Menghasilkan Nomor Delivery Order (DO) acak setelah pesanan dikonfirmasi.
 
-![Tampilan Checkout](img/Checkout.jpg) 
+![Tampilan Checkout](img/Checkout.png) 
 
 ## 5. Informasi Pengiriman (tracking.html)
 
@@ -60,7 +60,7 @@ Halaman untuk melacak status pengiriman pesanan (simulasi).
 * Menampilkan status pengiriman (disimulasikan dengan *progress bar* dan tabel riwayat).
 * Menampilkan detail nama pemesan, ekspedisi, dan total pembayaran.
 
-![Tampilan Tracking](img/Tracking.jpg) ```
+![Tampilan Tracking](img/Tracking.png) ```
 
 
 
